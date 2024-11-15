@@ -1,0 +1,209 @@
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\bin\Debug\AppBTL.exe.config
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\bin\Debug\AppBTL.exe
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\bin\Debug\AppBTL.pdb
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.Form1.resources
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.exe
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.pdb
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.Form2.resources
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.Form3.resources
+C:\Users\AnBeos\source\repos\AppBTL\AppBTL\obj\Debug\AppBTL.Form4.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\bin\Debug\AppBTL.exe.config
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\bin\Debug\AppBTL.exe
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\bin\Debug\AppBTL.pdb
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form1.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form2.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form3.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form4.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.exe
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.pdb
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\bin\Debug\Guna.UI2.dll
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form5.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form6.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form7.resources
+C:\Users\24242\Documents\Zalo Received Files\AppBTL\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\Downloads\AppBTL\AppBTL\bin\Debug\AppBTL.exe.config
+D:\Downloads\AppBTL\AppBTL\bin\Debug\AppBTL.exe
+D:\Downloads\AppBTL\AppBTL\bin\Debug\AppBTL.pdb
+D:\Downloads\AppBTL\AppBTL\bin\Debug\Guna.UI2.dll
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.exe
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.pdb
+D:\Downloads\AppBTL\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\AppBTL\AppBTL\bin\Debug\AppBTL.exe.config
+D:\AppBTL\AppBTL\bin\Debug\AppBTL.exe
+D:\AppBTL\AppBTL\bin\Debug\AppBTL.pdb
+D:\AppBTL\AppBTL\bin\Debug\Guna.UI2.dll
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.exe
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.pdb
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form10.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form11.resources
+D:\AppBTL\AppBTL\obj\Debug\AppBTL.Form12.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form10.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form11.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form12.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form13.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.pdb
+D:\Downloads\AppBTL (2)\AppBTL\bin\Debug\AppBTL.exe.config
+D:\Downloads\AppBTL (2)\AppBTL\bin\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2)\AppBTL\bin\Debug\AppBTL.pdb
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form14.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form15.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form16.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.Form17.resources
+D:\Downloads\AppBTL (2)\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\AppBTL.exe.config
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\AppBTL.pdb
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\Guna.UI2.dll
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form10.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form11.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form12.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form13.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form14.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form15.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form16.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form17.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.pdb
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\BCrypt.Net.dll
+D:\Downloads\AppBTL (2) (1)\AppBTL\bin\Debug\BCrypt.Net.xml
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form18.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form19.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form20.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form21.resources
+D:\Downloads\AppBTL (2) (1)\AppBTL\obj\Debug\AppBTL.Form22.resources
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.exe.config
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.exe
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.pdb
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\BCrypt.Net.dll
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\Guna.UI2.dll
+D:\AppBTL (2) (1) (1)\AppBTL\bin\Debug\BCrypt.Net.xml
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form10.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form11.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form12.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form13.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form14.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form15.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form16.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form17.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form18.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form19.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form20.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form21.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form22.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.exe
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.pdb
+D:\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form23.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.exe.config
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\AppBTL.pdb
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\BCrypt.Net.dll
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\Guna.UI2.dll
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\bin\Debug\BCrypt.Net.xml
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.AssemblyReference.cache
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form1.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form10.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form11.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form12.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form13.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form14.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form15.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form16.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form17.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form18.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form19.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form2.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form20.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form21.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form22.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form23.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form3.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form4.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form5.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form6.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form7.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form8.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Form9.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.Properties.Resources.resources
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.GenerateResource.cache
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.CoreCompileInputs.cache
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.csproj.Up2Date
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.exe
+D:\Downloads\AppBTL (2) (1) (1)\AppBTL\obj\Debug\AppBTL.pdb
